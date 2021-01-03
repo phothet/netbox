@@ -1,0 +1,179 @@
+manufacturer: Cisco
+model: SG300-20
+slug: sg300-20
+part_number: ''
+u_height: 1
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: ge1
+  type: 1000base-t
+  mgmt_only: false
+- name: ge2
+  type: 1000base-t
+  mgmt_only: false
+- name: ge3
+  type: 1000base-t
+  mgmt_only: false
+- name: ge4
+  type: 1000base-t
+  mgmt_only: false
+- name: ge5
+  type: 1000base-t
+  mgmt_only: false
+- name: ge6
+  type: 1000base-t
+  mgmt_only: false
+- name: ge7
+  type: 1000base-t
+  mgmt_only: false
+- name: ge8
+  type: 1000base-t
+  mgmt_only: false
+- name: ge9
+  type: 1000base-t
+  mgmt_only: false
+- name: ge10
+  type: 1000base-t
+  mgmt_only: false
+- name: ge11
+  type: 1000base-t
+  mgmt_only: false
+- name: ge12
+  type: 1000base-t
+  mgmt_only: false
+- name: ge13
+  type: 1000base-t
+  mgmt_only: false
+- name: ge14
+  type: 1000base-t
+  mgmt_only: false
+- name: ge15
+  type: 1000base-t
+  mgmt_only: false
+- name: ge16
+  type: 1000base-t
+  mgmt_only: false
+- name: ge17
+  type: 1000base-t
+  mgmt_only: false
+- name: ge18
+  type: 1000base-t
+  mgmt_only: false
+- name: ge19
+  type: 1000base-t
+  mgmt_only: false
+- name: ge20
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Custom
+model: ASUS AMD Based
+slug: asus-amd-based
+part_number: ''
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: eth0
+  type: 1000base-t
+  mgmt_only: false
+- name: ge1
+  type: 1000base-t
+  mgmt_only: false
+- name: ge2
+  type: 1000base-t
+  mgmt_only: false
+- name: ge3
+  type: 1000base-t
+  mgmt_only: false
+- name: ge4
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Intel
+model: NUC10i7FNH
+slug: nuc10i7fnh
+part_number: ''
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: Ethernet
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Netgear
+model: Orbi Router RBR750
+slug: orbi-router-rbr750
+part_number: ''
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: LAN1
+  type: virtual
+  mgmt_only: false
+- name: LAN2
+  type: virtual
+  mgmt_only: false
+- name: LAN3
+  type: virtual
+  mgmt_only: false
+- name: WAN
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Netgear
+model: Orbi Satellite RBS750
+slug: orbi-satellite-rbs750
+part_number: ''
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: LAN1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN2
+  type: 1000base-t
+  mgmt_only: false
+---
+manufacturer: Synology
+model: DS1618+
+slug: ds1618
+part_number: ''
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+---
+manufacturer: Verizon
+model: Fios-G1100
+slug: fios-g1100
+part_number: ''
+u_height: 0
+is_full_depth: false
+subdevice_role: ''
+comments: ''
+interfaces:
+- name: LAN1
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN2
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN3
+  type: 1000base-t
+  mgmt_only: false
+- name: LAN4
+  type: 1000base-t
+  mgmt_only: false
+- name: WAN
+  type: 1000base-t
+  mgmt_only: false
