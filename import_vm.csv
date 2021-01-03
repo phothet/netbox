@@ -1,0 +1,22 @@
+name,role,cluster
+idm1,RedHat IDM,domain.local
+idm2,RedHat IDM,domain.local
+git1,GitLab,domain.local
+git2,GitLab,domain.local
+puppet1,Puppet FOSS,domain.local
+puppet2,Puppet FOSS,domain.local
+puppet3,Puppet Enterprise,domain.local
+puppet4,Puppet Enterprise,domain.local
+pupcompile1,Puppet Compile Master,domain.local
+pupcompile2,Puppet Compile Master,domain.local
+pupcompile3,Puppet Compile Master,domain.local
+pupcompile4,Puppet Compile Master,domain.local
+postgres1,PostgreSQL,domain.local
+postgres2,PostgreSQL,domain.local
+zbxserver,Zabbix,domain.local
+zbxproxy1,Zabbix Proxy,domain.local
+zbxproxy2,Zabbix Proxy,domain.local
+grafana1,Grafana,domain.local
+grafana2,Grafana,domain.local
+prometheus1,Prometheus,domain.local
+vcenter1,VMware vCenter,domain.local
