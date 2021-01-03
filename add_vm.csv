@@ -1,6 +1,6 @@
 name,role,cluster
-idm1,RedHat IDM,domain.local
-idm2,RedHat IDM,domain.local
+idm1,Red Hat IdM,domain.local
+idm2,Red Hat IdM,domain.local
 git1,GitLab,domain.local
 git2,GitLab,domain.local
 puppet1,Puppet FOSS,domain.local
